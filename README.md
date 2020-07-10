@@ -14,6 +14,6 @@
 ## Author
 [Sheshan Patel](https://www.linkedin.com/in/sheshan-patel/) - sheshan1781@gmail.com
 
-##Purpose
+## Purpose
 Other than having fun, I wanted to learn more about the object-oriented side of golang, so I thought about making this
 game. I was able to learn more about `structs`,how to write my own errors, and much more! :) 
